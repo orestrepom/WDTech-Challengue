@@ -103,6 +103,4 @@ The tests and configuration can use `process.env.TEST_ENV` to load environment-s
 
 ## Project Documentation
 
-- [Test Plan](https://docs.google.com/document/d/1dRsVizxrPFY_sQUJVUlRrBGodk3fZGHMHO_r59HLO-8/edit?usp=drive_link)
-- [Test Cases](https://docs.google.com/document/d/1C5OYWjb_wC62j0uATKvnPVhL3rpk1PSnBE7XUR6rd5U/edit?usp=drive_link)
-- [Test Strategy](https://docs.google.com/document/d/1AJ0AjugP1Rw5oyVFH4U-9l9MnLfQYzk_4vfDJlVblZs/edit?usp=sharing)
+- documents folder
