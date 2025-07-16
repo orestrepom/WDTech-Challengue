@@ -1,0 +1,29 @@
+{
+  "name": "wdtech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:qa": "cross-env TEST_ENV=dev playwright test",
+    "test:staging": "cross-env TEST_ENV=staging playwright test",
+
+    "test:chromium": "playwright test --project=chromium",
+    "test:webkit": "playwright test --project=webkit-1600x900",
+    "test:mobile-safari": "playwright test --project=iPhone-15",
+
+    "show-report": "playwright show-report",
+    "ci": "npm run test:staging && npm run show-report"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.54.0",
+    "@types/dotenv": "^6.1.1",
+    "@types/node": "^24.0.13",
+    "dotenv": "^17.2.0"
+  }
+}
