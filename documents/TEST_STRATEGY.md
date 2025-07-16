@@ -111,6 +111,8 @@ test.beforeEach(async ({ page }) => {
 
 ## 7. Mobile Testing Strategy
 
+In order to achieve a realiable mobile test coverage it is proposed to use:
+
 - **Tool:** Appium + TypeScript
 - **Devices:** Emulators + real iOS/Android devices
 
