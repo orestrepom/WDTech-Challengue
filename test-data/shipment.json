@@ -1,0 +1,6 @@
+{
+    "fromAddress": "NY",
+    "toAddress": "Dallas",
+    "package": "FedEx Large Box",
+    "weight": "5"
+}
