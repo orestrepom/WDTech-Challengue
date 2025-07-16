@@ -41,4 +41,4 @@
 - Security Checks: validate CSP, certificate errors
 - Accessibility Audits: ensure all ARIA roles & contrast
 - Expand Mobile Coverage: more device profiles & screen sizes
-- Automate Pending Cases: convert P1/P2 manual tests to
+- Automate Pending Cases: convert P1/P2 manual tests to prioritize
