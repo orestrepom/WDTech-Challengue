@@ -1,8 +1,8 @@
 # FedEx Automation Test Strategy
 
-## 1. Introduction
+## 1. Proposal for future implementations and Project Management
 
-This Strategy proposal outlines a scalable automation approach for the FedEx US website that can be extended across regions and languages with minimal rework.
+This Strategy proposal for future outlines a scalable automation approach for the FedEx US website that can be extended across regions and languages with minimal rework.
 
 **Key Challenges:**
 - Geolocation popups (e.g., US vs. Colombia selector)
