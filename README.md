@@ -45,7 +45,7 @@ This project automates the FedEx web user interface for Locations and Rates & Sh
   Runs only the Rate & Ship tests using the Chromium browser.
 
 - `npx playwright test --project=iPhone-15`  
-  Runs all tests using the Galaxy Note 4 mobile emulation.
+  Runs all tests using the Iphone 15 mobile emulation.
 
 - `npm run test`  
   Runs all Playwright tests using the default configuration and all defined browsers/projects.
